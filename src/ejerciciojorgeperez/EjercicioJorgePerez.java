@@ -7,8 +7,6 @@ import java.util.Scanner;
 /**
  *
  * @author Jorge Luis Pérez Canto <george.jlpc@gmail.com>
- * @date 15/11/2020
- * @time 18:11:23
  * 
  */
 public class EjercicioJorgePerez {
